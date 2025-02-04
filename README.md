@@ -39,23 +39,22 @@
 
 ### 🌟 [Bharat Cart - E-commerce Web App](https://e-commerse-app-alpha.vercel.app/)  
 🛒 A fully functional **e-commerce platform** with a sleek design.  
-<img src="https://github.com/DevSourav01/DevSourav01/assets/ecommerce_preview.png" width="600" />
+
 
 ### 🎵 [Music Player](https://music-player-myn8.vercel.app/)  
 🎶 A **modern music player** built using HTML & CSS.  
-<img src="https://github.com/DevSourav01/DevSourav01/assets/music_player_preview.png" width="600" />
+
 
 ### 🎮 [Guess the Emoji Game](https://github.com/DevSourav01/Emoji-Guess-Game)  
 🤔 A **fun guessing game** with interactive UI.  
-<img src="https://github.com/DevSourav01/DevSourav01/assets/emoji_game_preview.png" width="600" />
+
 
 ### 🧠 [Quiz Game](https://github.com/DevSourav01/Quiz-Game)  
 ❓ Test your knowledge with this **interactive quiz game**.  
-<img src="https://github.com/DevSourav01/DevSourav01/assets/quiz_game_preview.png" width="600" />
+
 
 ### 🎯 [Guess the Number Game](https://guess-the-number-liart-nu.vercel.app/)  
 🔢 A **number guessing game** that challenges your intuition!  
-<img src="https://github.com/DevSourav01/DevSourav01/assets/guess_number_preview.png" width="600" />
 
 ---
 
