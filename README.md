@@ -1,45 +1,87 @@
-# 👋 Hi, I'm Sourav Nandi
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://github.com/DevSourav01/DevSourav01/assets/banner.gif" width="100%" alt="Sourav Nandi - Frontend Developer">
+</p>
 
-## 🚀 Frontend Developer | Passionate Coder
+<h1 align="center"> 🚀 Sourav Nandi | Frontend Developer </h1>
 
-I am a **Frontend Developer** with a strong foundation in building responsive and dynamic web applications. I specialize in crafting elegant user interfaces and delivering seamless user experiences.
-
----
-
-## 🛠 Tech Stack
-
-- **Frontend**: HTML, CSS, JavaScript, React.js, Bootstrap  
-- **Backend (Basic Knowledge)**: Python  
-- **Tools & Version Control**: Git, GitHub  
-- **Other Skills**: Responsive Web Design, UI/UX Principles  
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend%20Developer-%E2%9C%85-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/DevSourav01?style=for-the-badge&color=green" />
+  <img src="https://img.shields.io/badge/Open%20To%20Work-Yes-orange?style=for-the-badge" />
+</p>
 
 ---
 
-## 🔥 Projects
-
-### 🌟 [Bharat Cart - E-commerce Web App](https://e-commerse-app-alpha.vercel.app/)
-A fully functional e-commerce platform with mobile responsiveness.
-
-### 🎵 [Music Player](https://music-player-myn8.vercel.app/)
-A sleek music player built using HTML & CSS.
-
-### 🎮 [Guess the Emoji Game](https://github.com/DevSourav01/Emoji-Guess-Game)
-An interactive emoji guessing game built with JavaScript.
-
-### 🧠 [Quiz Game](https://github.com/DevSourav01/Quiz-Game)
-A fun and interactive quiz game with score tracking and animations.
-
-### 🎯 [Guess the Number Game](https://guess-the-number-liart-nu.vercel.app/)
-A number guessing game that tests your intuition!
+## 👨‍💻 **About Me**  
+💡 Passionate about crafting modern, responsive, and user-friendly web applications.  
+🎯 Focused on **React.js, JavaScript, and UI/UX design** to deliver interactive experiences.  
+📈 Always learning and improving my **frontend skills** to build engaging products.  
 
 ---
 
-## 📫 Let's Connect
+## 🛠 **Tech Stack**
 
-- **LinkedIn**: [Sourav Nandi](https://www.linkedin.com/in/sourav-nandi/)  
-- **GitHub**: [DevSourav01](https://github.com/DevSourav01)  
-- **Email**: thugsourav1998@gmail.com  
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
-💡 **"Code with passion, build with purpose!"**
+## 🔥 **Featured Projects**  
+
+### 🌟 [Bharat Cart - E-commerce Web App](https://e-commerse-app-alpha.vercel.app/)  
+🛒 A fully functional **e-commerce platform** with a sleek design.  
+<img src="https://github.com/DevSourav01/DevSourav01/assets/ecommerce_preview.png" width="600" />
+
+### 🎵 [Music Player](https://music-player-myn8.vercel.app/)  
+🎶 A **modern music player** built using HTML & CSS.  
+<img src="https://github.com/DevSourav01/DevSourav01/assets/music_player_preview.png" width="600" />
+
+### 🎮 [Guess the Emoji Game](https://github.com/DevSourav01/Emoji-Guess-Game)  
+🤔 A **fun guessing game** with interactive UI.  
+<img src="https://github.com/DevSourav01/DevSourav01/assets/emoji_game_preview.png" width="600" />
+
+### 🧠 [Quiz Game](https://github.com/DevSourav01/Quiz-Game)  
+❓ Test your knowledge with this **interactive quiz game**.  
+<img src="https://github.com/DevSourav01/DevSourav01/assets/quiz_game_preview.png" width="600" />
+
+### 🎯 [Guess the Number Game](https://guess-the-number-liart-nu.vercel.app/)  
+🔢 A **number guessing game** that challenges your intuition!  
+<img src="https://github.com/DevSourav01/DevSourav01/assets/guess_number_preview.png" width="600" />
+
+---
+
+## 📊 **GitHub Stats**  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevSourav01&show_icons=true&theme=radical" width="400px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DevSourav01&theme=radical&date_format=M%20j%5B%2C%20Y%5D" width="400px" />
+</p>
+
+---
+
+## 📬 **Let's Connect**  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sourav-nandi/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/DevSourav01">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:thugsourav1998@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+💡 *"Code with passion, build with purpose!"* 🚀  
