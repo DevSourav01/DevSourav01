@@ -76,9 +76,10 @@
   <a href="https://github.com/DevSourav01">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:thugsourav1998@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="mailto:thugsourav1998@gmail.com?subject=Hello%20Sourav&body=Hi%20there!">
+  <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
 </p>
 
 ---
