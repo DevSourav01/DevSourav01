@@ -70,7 +70,7 @@
 ## 📬 **Let's Connect**  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sourav-nandi/">
+  <a href="https://www.linkedin.com/in/sourav-nandi01/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/DevSourav01">
