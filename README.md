@@ -6,10 +6,10 @@
 <h1 align="center"> 🚀 Sourav Nandi | Frontend Developer </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend%20Developer-%E2%9C%85-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/DevSourav01?style=for-the-badge&color=green" />
-  <img src="https://img.shields.io/badge/Open%20To%20Work-Yes-orange?style=for-the-badge" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DevSourav01&show_icons=true&theme=radical" width="400px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DevSourav01&theme=radical&date_format=M%20j%5B%2C%20Y%5D" width="400px" />
 </p>
+
 
 ---
 
