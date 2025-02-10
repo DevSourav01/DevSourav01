@@ -5,10 +5,7 @@
 
 <h1 align="center"> 🚀 Sourav Nandi | Frontend Developer </h1>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevSourav01&show_icons=true&theme=radical" width="400px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DevSourav01&theme=radical&date_format=M%20j%5B%2C%20Y%5D" width="400px" />
-</p>
+
 
 
 ---
